@@ -1,10 +1,7 @@
-<h2 align="left">Olá, seja Bem vindo 👋! Eu sou o Luiz, atualmente Desenvolvedor Full Stack!</h2>
+<h2 align="left">Olá, seja Bem vindo(a)!!</h2>
 
 <p align="left">
-  Sou um entusiasta e admirador da tecnologia, apaixonado por aprender e criar soluções através do código.  
-  Estudo sobre desenvolvimento desde 2022 e, desde então, venho aprimorando minhas habilidades para transformar ideias em aplicações reais.  
-  Gosto de unir criatividade e lógica para desenvolver sistemas modernos, performáticos e com foco na experiência do usuário.  
-  Estou sempre em busca de novos conhecimentos, explorando diferentes tecnologias e desafios que me permitam evoluir como profissional e como pessoa.
+  Atuo no desenvolvimento de aplicações web modernas, criando soluções escaláveis, performáticas e focadas na experiência do usuário. Desde 2022, venho aprimorando minhas habilidades em desenvolvimento de software, sempre buscando aprender novas    tecnologias e enfrentar desafios que contribuam para minha evolução profissional.
 </p>
 
 
