@@ -39,9 +39,6 @@
 
 <h2>Redes sociais: </h2>
 <div align="left">
-  <a href="https://www.instagram.com/luizroberto.h/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/luiz-roberto-6354b320b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
